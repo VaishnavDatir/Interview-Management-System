@@ -1,0 +1,41 @@
+.nav-link:hover{
+    background-color: var(--main-color);
+    border-radius: 4px;
+    color: white;
+}
+
+.recent-jobs{
+    margin: 0 10%;
+    margin-top: 40px;
+}
+
+.job-card{
+    background-color: white;
+    padding: 20px;
+    border-radius: 7px;
+}
+
+.a-job-card{
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+.job-card .jTitle{
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.job-card .jLoction{
+    color: var(--text-light-gery);
+    font-size: 0.9rem;
+}
+
+.job-card .jDescription{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.2rem;
+    -webkit-line-clamp:2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    display: -webkit-box;
+}

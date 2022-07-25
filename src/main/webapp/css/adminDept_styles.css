@@ -1,0 +1,30 @@
+.dept-content{
+    margin: 0 10%;
+    margin-top: 40px;
+}
+
+.div-add-new-dept{
+    margin-top: auto;
+    width: auto;
+    
+}
+.a-add-new-dept{
+    text-decoration: none;
+    background-color: var(--main-color);
+    border-radius: 4px;
+    color: white;
+    padding: 10px;
+}
+
+.a-add-new-dept:hover{
+    color: white;
+}
+
+.div-dept-txt{
+    background-color: white;
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 4px;
+    height: 100%;
+}

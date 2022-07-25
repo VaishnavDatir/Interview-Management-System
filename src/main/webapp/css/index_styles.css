@@ -1,0 +1,27 @@
+#main-body-section{
+    height: 100vh;
+    /* background-color: var(--main-color);
+    background-image: url(../images/building.jpg); */
+    background-size: cover;
+    background:  url(../images/building.jpg) var(--main-color) ;
+    background-blend-mode: multiply;
+}
+
+.main-content{
+   padding:  10% 20%;
+   color: white;
+   font-size: 1.7rem;
+   font-weight: bold;
+}
+
+.btn-submit{
+    text-decoration: none;
+    background-color: white;
+    padding: 7px ;
+    color: #000;
+}
+
+.btn-submit:hover{
+    cursor: pointer;
+}
+

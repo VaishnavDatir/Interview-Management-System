@@ -1,0 +1,15 @@
+.project-main-div{
+    margin: 20px 10%;
+    background-color: white;
+    padding:15px;
+    border-radius: 7px;
+    border: 1px solid var(--border-color);
+}
+
+.project-details-div{
+    margin: 20px 10%;
+    background-color: white;
+    padding: 15px;
+    border-radius: 7px;
+    border: 1px solid var(--border-color);
+}

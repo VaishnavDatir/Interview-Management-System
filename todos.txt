@@ -1,0 +1,2 @@
+- Make profile section work
+complete get applied person etc
